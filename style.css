@@ -1,0 +1,122 @@
+@import url()'https://fonts.googleapis.com/css?family=Share+Tech+Mono');
+#logo {
+        display: block;
+        text-align: center;
+        height: 280px;
+        width: 300px;
+        margin: 0 auto;
+    }
+    #headerlogo {
+        float:none;
+        margin: 0;
+        padding: 0;
+        width: 40%;
+        vertical-align: inherit;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #headertext {
+        text-align: left;
+        float: right;
+        padding-left: 0;
+        width: 60%;
+        padding-top: 50px;
+        padding-bottom: 60px;
+        font-family: 'Share Tech Mono';
+        color:antiquewhite;
+        font-size: 32px;
+        text-indent: 0px;
+
+    }
+    #header {
+        background-color: #ffbd4a;
+        background-size:cover;
+        background-repeat: no-repeat;
+        height:inherit;
+        text-align: center;
+        padding-bottom: 32px;
+    }
+    .header_link {
+        font-family: 'Share Tech Mono';
+        text-transform:uppercase;
+        color:antiquewhite;
+        border-color: antiquewhite;
+        text-decoration: none;
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 6px;
+        font-size: 18px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin: 40px;
+    }
+
+body {
+    background-color:#a9e9ff;
+    margin: 0px;
+    resize: horizontal;
+    text-align: center;
+}
+h1 {
+    font-family: 'Share Tech Mono';
+    text-align: center;
+}
+h2 {
+    font-family: 'Share Tech Mono';
+}
+p {
+    font-size:24px;
+/*    font-family: "Times New Roman", Times, serif;*/
+    text-indent: 8px;
+}
+label {
+    font-size: 24px;
+}
+input {
+    font-size: 24px;
+}
+#apps {
+    
+}
+.app {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    float:left;
+}
+.Screenshot {
+    max-height: 600px;
+    max-width: 600px;
+    border-width:10px;
+    border-color: #000000;
+    border-style: solid;
+    border-radius: 20px;
+    margin: 20px;
+}
+.ScreenshotPortrait {
+    border-top-width: 30px;
+    border-bottom-width: 30px;
+}
+.ScreenshotLandscape {
+    height: 300px;
+    border-left-width: 30px;
+    border-right-width: 30px;
+}
+#power {
+    background-color:rgba(34, 162, 18, 0.40);
+    padding: 0px;
+}
+#inflection {
+    background-color: rgba(44, 166, 255, 0.4);
+}
+#highway {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.AppIcon {
+    height: 200px;
+    border-radius: 20%;
+    border-color: black;
+    border-style: solid;
+}
