@@ -114,6 +114,9 @@ input {
 #highway {
     background-color: rgba(0, 0, 0, 0.4);
 }
+#brake {
+    background-color: rgba(255, 0, 0, 0.4);
+}
 .AppIcon {
     height: 200px;
     border-radius: 20%;
